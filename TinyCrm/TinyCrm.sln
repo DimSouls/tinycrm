@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TinyCrm", "TinyCrm\TinyCrm.csproj", "{4645BBD3-44D0-44FC-88E0-9486075C204D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4645BBD3-44D0-44FC-88E0-9486075C204D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4645BBD3-44D0-44FC-88E0-9486075C204D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4645BBD3-44D0-44FC-88E0-9486075C204D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4645BBD3-44D0-44FC-88E0-9486075C204D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4E02BD9-BC52-4D9D-8C24-8BCBEFCECA48}
+	EndGlobalSection
+EndGlobal
